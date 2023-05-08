@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.menu{
+    text-align: center; 
+    background-color: #0F1528;
+}
+
+.img{
+    margin-left: 50px;
+    height: 40px;
+    margin-top: -45px;
+}
+
+.nav-text{
+    display: inline-flex;
+    margin-left: 10px;
+    padding-top: 15px;
+    color: white;
+}
+
+.btn{
+    margin-top: -80px;
+}
+
+.btn1{
+    padding: 5px 20px;
+    background: white;
+    margin-left: 850px;
+    border-radius: 10px;
+    font-weight: 800;
+}
+
+.text{
+    display: inline-flex;
+    margin-top: -5px;
+    margin-left: 100px;
+    font-size: xx-small;
+}
+
+.text1{
+    color: grey;
+}
+
+.text2{
+    margin-left: 10px;
+    color: blue;
+}
+
+.imp{
+    position: absolute;
+    margin-top: 40px;
+}
+
+.imp1{
+    width: 450px;
+    margin-left: 700px;
+}
+
+.imp2{
+    width: 300px;
+    margin-left: -375px;
+}
+
+.text3{
+    margin-left: 100px;
+    width: 20%;
+    margin-top: 15px;
+    font-size: small;
+}
+
+.text5{
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -65px;
+}
+
+.text7{
+    margin-left: 100px;
+    font-size: x-large;
+    margin-top: 50px;
+}
+
+.btn2{
+    color: deeppink;
+    box-shadow: 10ch;
+    border-radius: 10px;
+    border-color: deeppink;
+    margin-left: 100px;
+    width: 200px;
+    margin-top: 20px;
+    font-size: smaller;
+    height: 40px;
+}
+
+.img1{
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+.img2{
+    width: 50px;
+}
+
+.img3{
+    width: 50px;
+    margin-left: 95px;
+}
+
+.img4{
+    width: 50px;
+    margin-left: 115px;
+}
+
+.text8{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 20px;
+    
+}
+
+.text9{
+    font-size: x-small;
+
+}
+
+.text10{
+    font-size: x-small;
+    margin-left: 40px;
+}
+
+.text11{
+    font-size: x-small;
+    margin-left: 40px;
+}
+
+.imp5{
+    width: 600px;
+    margin-left: 625px;
+    margin-top: 200px;
+}
+
+.text12{
+    margin-top: -450px;
+    margin-left: 100px;
+    font-size: small;
+}
+
+.text14{
+    margin-top: 50px;
+    font-weight: 800;
+    font-size: small;
+}
+
+.blue{
+    margin-top: 200px;
+    background-color: #0F1528;
+}
+
+.text15{
+    margin-left: 100px;
+    color: white;
+}
+
+.text16{
+    padding-top: 50px;
+}
